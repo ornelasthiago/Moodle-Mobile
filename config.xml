@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.fsba.campusvirtual" version="3.2.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Campus Virtual FSBA</name><!-- Versão 3.2.7 -30/03/2017 -->
+  <name>Campus Virtual FSBA</name><!-- versao 3.2.7 -30/03/2017 -->
   <description>Aplicativo Oficial do Campus Virtual FSBA</description>
   <author href="http://moodle.org" email="suportecampusvirtual@faculdadesocial.edu.br">Nucleo EAD</author>
   <content src="index.html"/>
